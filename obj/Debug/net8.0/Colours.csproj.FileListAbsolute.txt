@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Project\Colours\obj\Debug\net8.0\Colours.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Project\Colours\obj\Debug\net8.0\Colours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Project\Colours\obj\Debug\net8.0\Colours.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Project\Colours\obj\Debug\net8.0\Colours.AssemblyInfo.cs
+C:\Users\HP\Desktop\Project\Colours\obj\Debug\net8.0\Colours.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Project\Colours\bin\Debug\net8.0\Colours.exe
+C:\Users\HP\Desktop\Project\Colours\bin\Debug\net8.0\Colours.deps.json
+C:\Users\HP\Desktop\Project\Colours\bin\Debug\net8.0\Colours.runtimeconfig.json
+C:\Users\HP\Desktop\Project\Colours\bin\Debug\net8.0\Colours.dll
+C:\Users\HP\Desktop\Project\Colours\bin\Debug\net8.0\Colours.pdb
+C:\Users\HP\Desktop\Project\Colours\obj\Debug\net8.0\Colours.dll
+C:\Users\HP\Desktop\Project\Colours\obj\Debug\net8.0\refint\Colours.dll
+C:\Users\HP\Desktop\Project\Colours\obj\Debug\net8.0\Colours.pdb
+C:\Users\HP\Desktop\Project\Colours\obj\Debug\net8.0\Colours.genruntimeconfig.cache
+C:\Users\HP\Desktop\Project\Colours\obj\Debug\net8.0\ref\Colours.dll
